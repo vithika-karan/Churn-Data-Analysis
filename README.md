@@ -1,5 +1,5 @@
 # Churn-Data-Analysis
-Churn Data Analysis is a simple and detailed exploratory data analysis of telecommunication firm's churn dataset. This project is a part of a Data Science curriculum at [AlmaBetter](https://www.almabetter.com/).
+Churn Data Analysis is a simple and detailed exploratory data analysis of telecommunication firm's churn dataset. This project is a part of Data Science curriculum at [AlmaBetter](https://www.almabetter.com/).
 ### Problem Statement
 Orange S.A., formerly France Télécom S.A., is a French multinational telecommunications corporation. The Orange Telecom's Churn Dataset, consists of cleaned customer activity data (features), along with a churn label specifying whether a customer canceled the subscription.
 Explore and analyze the data to discover key factors responsible for customer churn and come up with ways/recommendations to ensure customer retention.
